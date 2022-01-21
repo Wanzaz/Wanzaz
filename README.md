@@ -1,3 +1,19 @@
-Hi, I’m @scriptden
-I’m interested in networking, programming
-I’m currently learning C, Python and for CCNA
+Hi, I’m @Wanzaz
+
+I’m interested in Networking, Programming, and CLI Interfaces
+
+Languages:
+- Python
+- C
+- C++
+- Bash
+
+Technologies:
+- Linux
+- Bitcoin
+- Vim
+- Git
+
+Certificates:
+- currently learnig for CCNA
+- maybe in near future Linux+
