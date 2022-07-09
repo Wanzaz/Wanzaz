@@ -14,7 +14,7 @@ class Student:
         self.role = "Programming Student"
         self.language_spoken = ["czech", "english", "german"]
         self.interest = ["programming", "networking", "cli interfaces"]
-        self.certificate = ["currently studing for CCNA", "maybe in near future Linux+"]
+        self.certification = ["CCNA", "maybe in near future Linux+"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
