@@ -28,9 +28,9 @@ me.say_hi()
 ##  💻 GitHub Profile Stats
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wanzaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wanzaz&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wanzaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wanzaz&theme=github_dark" height="192px"/></a>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanzaz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark"  height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wanzaz&langs_count=10&layout=compact&theme=github_dark"  height="192px"/>
 
 
 ## 🔧 Technologies & Tools
